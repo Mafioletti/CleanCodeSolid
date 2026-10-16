@@ -1,3 +1,4 @@
+package model;
 public class Computador extends Dispositivo{
     private int qtdRAM;
     private String sistemaOperacional;

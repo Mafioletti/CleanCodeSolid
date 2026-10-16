@@ -1,3 +1,4 @@
+package model;
 public class Impressora extends Dispositivo{
     private String tipoImpressao;
     private int velocidadeImpressao;

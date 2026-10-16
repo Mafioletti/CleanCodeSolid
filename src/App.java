@@ -1,6 +1,11 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
+import model.Computador;
+import model.Dispositivo;
+import model.Impressora;
+import model.Roteador;
+
 public class App {
     private static Scanner sc = new Scanner(System.in);
     private static ArrayList <Dispositivo> dispositivos = new ArrayList<>();

@@ -70,15 +70,15 @@ public class App {
     }
 
     public static void exibirMenu(){
-            System.out.println("=== MENU DE OPÇÕES DA LOJA ===\n");
-            System.out.println("1. Cadastrar Computador");
-            System.out.println("2. Cadastrar Impressora");
-            System.out.println("3. Cadastrar Roteador");
-            System.out.println("4. Listar Dispositivos");
-            System.out.println("5. Ligar Dispositivo");
-            System.out.println("6. Desligar Dispositivo");
-            System.out.println("7  Exibir detalhes de um Dispositivo");
-            System.out.println("8. Sair");
+        System.out.println("=== MENU DE OPÇÕES DA LOJA ===\n");
+        System.out.println("1. Cadastrar Computador");
+        System.out.println("2. Cadastrar Impressora");
+        System.out.println("3. Cadastrar Roteador");
+        System.out.println("4. Listar Dispositivos");
+        System.out.println("5. Ligar Dispositivo");
+        System.out.println("6. Desligar Dispositivo");
+        System.out.println("7  Exibir detalhes de um Dispositivo");
+        System.out.println("8. Sair");
     }
 
     private void cadastrarComputador(){

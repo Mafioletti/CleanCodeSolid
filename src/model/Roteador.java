@@ -1,3 +1,4 @@
+package model;
 public class Roteador extends Dispositivo{
     private int quantidadePortas;
     private int velocidadeRede;

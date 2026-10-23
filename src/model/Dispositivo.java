@@ -1,3 +1,4 @@
+package model;
 public class Dispositivo implements Operavel{
     private String nome;
     private String codigo;
